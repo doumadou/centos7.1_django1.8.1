@@ -1,0 +1,4 @@
+Django==1.8.1
+django-mysql==0.1.10
+python-memcached==1.54
+sphinxit==0.3.2
